@@ -109,8 +109,5 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. 
 
----
-
-Feel free to modify and expand this `README.md` file as needed to better suit your project and any additional features you may implement in the future. This should provide a clear and comprehensive guide for anyone looking to use, understand, or contribute to your game.
